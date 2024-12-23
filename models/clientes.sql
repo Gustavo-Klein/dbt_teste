@@ -1,0 +1,1 @@
+SELECT * FROM `applied-primacy-445603-e8.CLIENTES_GERAL.Clientes` 
